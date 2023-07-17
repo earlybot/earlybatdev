@@ -16,7 +16,7 @@
 Clone the repository
 
 ```zsh
-git clone https://github.com/nurodev/earlybot.dev.git
+git clone https://github.com/earlybot/earlybotdev.git
 ```
 
 Install dependencies
